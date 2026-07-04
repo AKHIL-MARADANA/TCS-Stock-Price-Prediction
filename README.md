@@ -141,12 +141,9 @@ The project also demonstrates how to predict the closing price of TCS stock usin
 
 ### Actual vs Predicted Stock Price
 
-The project generates a line graph comparing:
+The graph below compares the actual closing prices with the prices predicted by the Random Forest model.
 
-- Actual Closing Price
-- Predicted Closing Price
-
-This visualization helps evaluate how closely the model predictions match the actual stock prices.
+![Actual vs Predicted](screenshots/actual_vs_predicted.png)
 
 ---
 
@@ -158,7 +155,7 @@ TCS-Stock-Price-Prediction/
 ├── README.md
 ├── requirements.txt
 ├── TCS.csv
-├── stock_prediction.py
+├── stock_price_pred.py
 ├── screenshots/
 ```
 
