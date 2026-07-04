@@ -147,20 +147,6 @@ The graph below compares the actual closing prices with the prices predicted by 
 
 ---
 
-## Project Structure
-
-```
-TCS-Stock-Price-Prediction/
-│
-├── README.md
-├── requirements.txt
-├── TCS.csv
-├── stock_price_pred.py
-├── screenshots/
-```
-
----
-
 ## How to Run
 
 ### 1. Clone the repository
